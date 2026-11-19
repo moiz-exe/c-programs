@@ -1,4 +1,4 @@
-# `C://PROGRAMS` — Beyond the First Line
+# `C://PROGRAMS-Practice` — Beyond the First Line
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B3D,100:00D9FF&height=220&section=header&text=C%20%2F%2F%20PROGRAMS&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20DEBUG%20%E2%80%A2%20REPEAT&descSize=14&descAlignY=58" width="100%" alt="C and C++ programming repository banner"/>
